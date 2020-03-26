@@ -9,3 +9,4 @@
 * "Ratana Sutta" image: Huntington Archive, "paragons of filial piety and female virtue", https://dsal.uchicago.edu/cgi-bin/huntington/show_detail.py?ObjectID=30021655
 * "Metta Sutta" image: Huntington Archive, "love", https://dsal.uchicago.edu/cgi-bin/huntington/show_detail.py?ObjectID=30019957
 * Translations by Bhikkhu Ānandajoti, Bhikkhu Sujato, and the Amaravati Sangha: https://suttacentral.net/kp1/en/anandajoti, https://suttacentral.net/sn41.10/en/sujato, https://suttacentral.net/kp5/en/anandajoti, https://suttacentral.net/kp6/en/anandajoti, https://suttacentral.net/kp9/en/amaravati. Parts are also adapted from the Tilorien Chanting Book. 
+* Original file compressed from 15 MB to ~900 KB with https://www.ilovepdf.com/
